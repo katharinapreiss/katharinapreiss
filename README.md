@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katharinapreiss
+- 👋 Hi, I’m @katharinapreiss, techie & headhunter.
 - 👀 I’m interested in new tech- stacks, even servers, virtual machines & efficient network technologies 
 - 🌱 I’m currently learning how to set up my hardware firewall "SonicWall TZ500".
 - 💞️ I’m looking to collaborate on how to find excellent DevOps professionals who are interested to interact with me.
